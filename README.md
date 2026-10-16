@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Soham%20Umap&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Building%20the%20safety%20layer%20for%20AI%20agents&descSize=18&descAlignY=58" alt="Soham Umap: building the safety layer for AI agents" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Soham%20Umap&fontSize=52&fontColor=ffffff&fontAlignY=42" alt="Soham Umap" />
 </p>
 
 <p align="center">
