@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=640&lines=I+build+AI+agents+%E2%80%94+then+try+to+break+them;Runtime+guardrails+for+Claude+Code+%26+Cursor;EU+AI+Act+compliance%2C+as+code" alt="I build AI agents, then try to break them" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=640&lines=I+build+AI+agents+%E2%80%94+then+try+to+break+them;Herald%3A+an+AI+social+media+agency;Runtime+guardrails+for+AI+coding+agents" alt="I build AI agents, then try to break them" />
 </p>
 
 <p align="center">
@@ -22,15 +22,45 @@
 
 ---
 
-### 🌟 Spotlight: AI Compliance Layer
+### 🌟 Spotlight
+
+#### 📣 Herald: an AI social media agency in one agent
 
 <table>
 <tr>
 <td width="55%" valign="top">
 
-**A safety guard for AI coding agents that turns every decision into EU AI Act evidence.**
+**Runs LinkedIn, X and Instagram the way an agency would.** It learns your voice, plans the calendar, drafts every post, engages with the right people, answers comments and messages, and reports what it did.
 
-Security tools block risky agent actions but leave no paper trail. Compliance tools check paperwork but never see what an agent does. This connects the two.
+**Approval-first by design.** LinkedIn automation tools have faced bans and cease-and-desists, so Herald posts only through official APIs, and only after you approve each post.
+
+![Status](https://img.shields.io/badge/status-in_development-f59e0b?style=flat-square)
+![Repo](https://img.shields.io/badge/repo-private-64748b?style=flat-square&logo=github)
+
+</td>
+<td width="45%" valign="top">
+
+| What it already does |
+|---|
+| ✍️ Drafts posts in your voice |
+| 🖼️ Adds images and carousels |
+| ✅ You approve, it publishes |
+| 💸 Tracks AI cost, with a monthly cap |
+| 🔒 Isolated workspaces per customer |
+
+</td>
+</tr>
+</table>
+
+`Next.js` `FastAPI` `PostgreSQL` `Redis` `Hermes Agent`
+
+#### 🛡️ AI Compliance Layer: a safety guard for AI coding agents
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+**Turns every AI agent decision into EU AI Act evidence.** Security tools block risky agent actions but leave no paper trail. Compliance tools check paperwork but never see what an agent does. This connects the two.
 
 ![Tests](https://img.shields.io/badge/tests-458_passing-22c55e?style=flat-square)
 ![Offline](https://img.shields.io/badge/runs-offline-64748b?style=flat-square)
