@@ -30,7 +30,7 @@
 <tr>
 <td width="55%" valign="top">
 
-**Runs LinkedIn, X and Instagram the way an agency would.** It learns your voice, plans the calendar, drafts every post, engages with the right people, answers comments and messages, and reports what it did.
+**Built to run LinkedIn, X and Instagram the way an agency would.** It learns your voice, plans the calendar, drafts every post, engages with the right people, answers comments and messages, and reports what it did.
 
 **Approval-first by design.** LinkedIn automation tools have faced bans and cease-and-desists, so Herald posts only through official APIs, and only after you approve each post.
 
@@ -44,7 +44,7 @@
 |---|
 | ✍️ Drafts posts in your voice |
 | 🖼️ Adds images and carousels |
-| ✅ You approve, it publishes |
+| ✅ You approve, it publishes to LinkedIn |
 | 💸 Tracks AI cost, with a monthly cap |
 | 🔒 Isolated workspaces per customer |
 
