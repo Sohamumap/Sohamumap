@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/sohamumap"><img src="https://img.shields.io/badge/LinkedIn-sohamumap-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: sohamumap" /></a>
   <a href="https://x.com/soham_umap"><img src="https://img.shields.io/badge/X-@soham__umap-000000?style=for-the-badge&logo=x&logoColor=white" alt="X: @soham_umap" /></a>
 </p>
 
